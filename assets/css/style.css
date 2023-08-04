@@ -589,7 +589,7 @@ section .container {
   left: -9px;
   top: 0;
   background: #f3e70e;
-  border: 2px solid #f3e70e;
+  border: 2px solid #f4e80b;
 }
 
 /*--------------------------------------------------------------
@@ -1027,4 +1027,12 @@ section .container {
 }
 .credits a:hover {
   color: #fff;
+}
+
+#certificationStyle {
+  color: white;
+}
+
+#certificationStyle:hover {
+  color: #f4e80b;
 }
